@@ -51,5 +51,4 @@
   school size and school spending did not change. Updating this analysis also allows the School Board to get a clearer 
   picture of the pefermonce of schools across the district and school levels.
   
-  
-  
+ 
