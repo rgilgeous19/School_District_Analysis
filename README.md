@@ -14,7 +14,7 @@
   
   - _How was the District Summary affected?_
   
-  ![District Summary Repeat](https://user-images.githubusercontent.com/103302566/167316397-30e305f7-75d5-4d88-ab0d-7cf335b89e4a.png)
+       ![District Summary Repeat](https://user-images.githubusercontent.com/103302566/167316397-30e305f7-75d5-4d88-ab0d-7cf335b89e4a.png)
 
     The Average Math Score changed from 79.0 to 78.93, the Average Reading Score changed
     from 81.9 to 81.86 and the % Overall Passing decreased from 65.17% to 64.85%.
@@ -22,9 +22,9 @@
 
   - _How was the School Summary affected?_
     
-    ![School Summary Repeat](https://user-images.githubusercontent.com/103302566/167316797-6e641cb7-2be9-4337-a25f-e3611f257acc.png)
+       ![School Summary Repeat](https://user-images.githubusercontent.com/103302566/167316797-6e641cb7-2be9-4337-a25f-e3611f257acc.png)
 
      The Average Math Score decreased from 83.41 to 83.35, the Average Reading Score increased from 83.85 
      to 83.896 and the % Overall Passing decreased dramatically from 90.95% to 65.076%.
      
-     
+  - _How does    
