@@ -40,8 +40,16 @@
  - _How does replacing the ninth-grade scores affect the following:_
       
       - Math and reading scores by grade increased from 65.07% to 90.63%.
-      - Scores by school spending 
-      - Scores by school size
-      - Scores by school type 
+      - Scores by school spending did not change.
+      - Scores by school size did not change.
+      - Scores by school type did not change.
    
-    
+   
+## Summary
+  In the updated School District Analysis, Thomas went returned to being one of the top performing high schools, and 
+  the grades for Thomas' High School 9th grade math and reading scores were changed to "nan". The scores by school type,
+  school size and school spending did not change. Updating this analysis also allows the School Board to get a clearer 
+  picture of the pefermonce of schools across the district and school levels.
+  
+  
+  
