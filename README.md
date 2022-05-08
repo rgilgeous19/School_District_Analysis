@@ -27,4 +27,21 @@
      The Average Math Score decreased from 83.41 to 83.35, the Average Reading Score increased from 83.85 
      to 83.896 and the % Overall Passing decreased dramatically from 90.95% to 65.076%.
      
-  - _How does    
+  - _How does replacing the ninth graders' math and reading affect Thomas' High School's performance relative to other schools?_
+    
+    
+       ![Top Schools Repeat](https://user-images.githubusercontent.com/103302566/167317966-8928025c-d6e9-46e1-b0cc-8ace3605ed78.png)
+
+      Replacing the ninth graders' math and reading, helped Thomas High School get back into the top performing
+      schools category with an overall passing percentage of 90.63%. When the ninth graders' math and reading percentages
+      we included in the analysis, Thomas High School went into the top 5 bottom schools with 65.07%.
+  
+ 
+ - _How does replacing the ninth-grade scores affect the following:_
+      
+      - Math and reading scores by grade increased from 65.07% to 90.63%.
+      - Scores by school spending 
+      - Scores by school size
+      - Scores by school type 
+   
+    
